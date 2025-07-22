@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Baskorte
-- 🌱 I’m currently learning to code and following allong with the 'The complete webdeveloper: Zero to Mastery' on Udemy. 
-     Finally commited to learn more about coding and wanting to use it in my working live. 
+- 👋 Hi, I’m Bastiaan
+- 🌱 I’m a Growth Marketer & UX Designer helping businesses scale through data-driven marketing and user-centered design.
+- 🔨 Currrently building my portfolio site and exploring the intersection of growth marketing and user experience design.
 - 📫 How to reach me : Look me up on LinkedIn and lets connect.
 
